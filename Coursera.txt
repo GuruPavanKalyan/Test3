@@ -1,0 +1,10 @@
+1.what is data science
+2.tools for Data Science
+3.Data Science Methodology
+4.python for Data Science, AI & Development
+5.python Project for Data Science
+6.Databases and SQL for Data Science with Python
+7.Data Analysis with Python
+8.Data Visualization With Python
+9.Machine Learning With Python
+10.Applied Data Science Capstone
